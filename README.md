@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexpuchoa
-- 👀 I’m interested in Sociology of Science and of Knowledge Production
-- 🌱 I’m currently following my PhD
+- 👀 I’m interested in Human-AI Colaboration
+- 🌱 I’m currently pursuing my PhD
 
 <!---
 alexpuchoa/alexpuchoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
